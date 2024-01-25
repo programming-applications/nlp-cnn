@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://keras.io/img/logo-small.png" alt="Keras Logo" width="80">
+  <img src="https://keras.io/img/logo-small.png" alt="Keras Logo" width="180">
 </p>
 
 <h1 align="center"> Convolutional Neural Networks Natural Language Processing</h>
