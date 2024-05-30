@@ -14,3 +14,6 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+<p align="center">
+  <img src="Convolutional Neural Networks ZG37YUDXUWPA.jpg" alt="TensorFlow Logo" width="825">
+</p>
